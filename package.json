@@ -1,0 +1,42 @@
+{
+	"name": "onedraculapro-theme",
+	"displayName": "OneDracula-Pro.json",
+	"description": "Atom's iconic One Dark theme refined with Dracula colors for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "k9ordon",
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "OneDracula-Pro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneDracula-Pro.json"
+			}
+		]
+	},
+	"keywords": [
+		"dark",
+		"darcula",
+		"theme",
+		"flat",
+		"one dark",
+        "onedark",
+        "one dark pro",
+        "theme",
+        "atom"
+	],
+	"license": "MIT",
+	"galleryBanner": {
+        "color": "#21232d",
+        "theme": "dark"
+    },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/k9ordon/onedraculapro-theme.git"
+	}
+}
